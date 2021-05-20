@@ -195,7 +195,7 @@ end)
 
 
 if Drawing then
-local ESP = loadstring(game:HttpGet("https://virtuallization.com/ESP%20Library.txt"))()
+local ESP = loadstring(game:HttpGet("https://pastebin.com/raw/tyHjkfCk"))()
 ESP.Names = false
 ESP.Boxes = false
 ESP.Tracers = false
