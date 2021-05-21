@@ -1,3 +1,5 @@
+-- Thx for all buyers, im making a ss for the buyers!
+
 local variables = {}
 
 variables.autoCornFarm = false;
